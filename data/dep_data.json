@@ -1,0 +1,29 @@
+{
+  "add_dep": {
+    "name": "冲鸭",
+    "id_code": "34567",
+    "http_code": 200,
+    "success": true,
+    "code2": 10000,
+    "message": "操作成功"
+  },
+  "sel_dep": {
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  "upd_dep": {
+    "name": "尖椒鸡",
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  "del_dep": {
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  }
+}

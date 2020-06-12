@@ -1,0 +1,20 @@
+2020-06-12 22:24:51,473 INFO [root] [test_department.py(test01_login:30)] - 请求头为:{'Content-Type': 'application/json', 'Authorization': 'Bearer 05ad28a5-3f49-4188-94c9-a209a0807aac'}
+2020-06-12 22:25:38,070 INFO [root] [test_department.py(test01_login:30)] - 请求头为:{'Content-Type': 'application/json', 'Authorization': 'Bearer 4f15c738-9e72-4476-ab92-4056739dc524'}
+2020-06-12 22:25:38,201 INFO [root] [test_department.py(test02_add_dep:41)] - 添加员工：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271448687805018112'}}
+2020-06-12 22:25:38,201 INFO [root] [test_department.py(test02_add_dep:45)] - 员工id为：1271448687805018112
+2020-06-12 22:25:38,291 INFO [root] [test_department.py(test03_sel_dep:54)] - 部门信息：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271448687805018112', 'pid': '', 'companyId': '1', 'name': '冲鸭', 'code': '34567', 'managerId': None, 'manager': '测试Boss', 'introduce': '测试人员集合', 'createTime': None}}
+2020-06-12 22:25:44,477 INFO [root] [test_department.py(test01_login:30)] - 请求头为:{'Content-Type': 'application/json', 'Authorization': 'Bearer 4b0190ce-af2c-4ae4-bfb1-3dcb00e2d629'}
+2020-06-12 22:25:46,116 INFO [root] [test_department.py(test01_login:30)] - 请求头为:{'Content-Type': 'application/json', 'Authorization': 'Bearer ca626102-c779-439b-b163-45b484a7d06e'}
+2020-06-12 22:25:47,689 INFO [root] [test_department.py(test01_login:30)] - 请求头为:{'Content-Type': 'application/json', 'Authorization': 'Bearer 6ade496e-bd61-4040-b20c-c7b48341b2ce'}
+2020-06-12 22:25:47,806 INFO [root] [test_department.py(test02_add_dep:41)] - 添加员工：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271448728103890944'}}
+2020-06-12 22:25:47,806 INFO [root] [test_department.py(test02_add_dep:45)] - 员工id为：1271448728103890944
+2020-06-12 22:25:58,348 INFO [root] [test_department.py(test01_login:30)] - 请求头为:{'Content-Type': 'application/json', 'Authorization': 'Bearer 3bf09418-131e-43e9-8def-de3b50235d78'}
+2020-06-12 22:25:58,442 INFO [root] [test_department.py(test02_add_dep:41)] - 添加员工：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271448772739674112'}}
+2020-06-12 22:25:58,442 INFO [root] [test_department.py(test02_add_dep:45)] - 员工id为：1271448772739674112
+2020-06-12 22:25:58,528 INFO [root] [test_department.py(test03_sel_dep:54)] - 部门信息：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271448772739674112', 'pid': '', 'companyId': '1', 'name': '冲鸭', 'code': '34567', 'managerId': None, 'manager': '测试Boss', 'introduce': '测试人员集合', 'createTime': None}}
+2020-06-12 22:26:16,646 INFO [root] [test_department.py(test01_login:30)] - 请求头为:{'Content-Type': 'application/json', 'Authorization': 'Bearer d0446b5d-3f5c-4b79-b043-d46c95b2cb34'}
+2020-06-12 22:26:16,740 INFO [root] [test_department.py(test02_add_dep:41)] - 添加员工：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271448849474465792'}}
+2020-06-12 22:26:16,741 INFO [root] [test_department.py(test02_add_dep:45)] - 员工id为：1271448849474465792
+2020-06-12 22:26:16,816 INFO [root] [test_department.py(test03_sel_dep:54)] - 部门信息：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271448849474465792', 'pid': '', 'companyId': '1', 'name': '冲鸭', 'code': '34567', 'managerId': None, 'manager': '测试Boss', 'introduce': '测试人员集合', 'createTime': None}}
+2020-06-12 22:26:16,912 INFO [root] [test_department.py(test04_upd_dep:63)] - 部门信息：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-06-12 22:26:18,182 INFO [root] [test_department.py(test05_del_dep:72)] - 部门信息：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
